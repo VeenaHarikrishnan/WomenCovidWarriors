@@ -43,13 +43,13 @@ Mobile, web, and cloud services used in our platform enables rapid deployment of
 
 <h2>Mobile Application Workflow</h2>
 
-•	User launches the mobile app, enters his/her credentials on the login screen and clicks Login.
-•	Mobile app sends the user credentials to MFP server for validation.
-•	MFP server invokes the security adapter logic to validate user credentials and returns an appropriate response to the mobile app. For the sake of this demo, we will use a simple security adapter that returns success when password equals username.
-•	If user authentication succeeds, mobile app proceeds to show the home page where the tiles for the different roles such as Teacher, Student and Parent are displayed. 
-•	For pages like Physician Details, Social Responsibility etc we are using IBM storage and API services. MFP adapter fetches the data from Cloudant and returns it to the mobile app. The data fetched from Cloudant will have references to the images stored in Cloud Object Storage.
-•	Backend integration APIs are developed using Citizen Integration capabilities that IBM AppConnect provides to integrate with Google Spreadsheet. 
-•	MFP API adapter is used to connect to the public API exposed from IBM AppConnect to retrieve the details.
+•	User launches the mobile app, enters his/her credentials on the login screen and clicks Login.<br/>
+•	Mobile app sends the user credentials to MFP server for validation.<br/>
+•	MFP server invokes the security adapter logic to validate user credentials and returns an appropriate response to the mobile app. For the sake of this demo, we will use a simple security adapter that returns success when password equals username.<br/>
+•	If user authentication succeeds, mobile app proceeds to show the home page where the tiles for the different roles such as Teacher, Student and Parent are displayed. <br/>
+•	For pages like Physician Details, Social Responsibility etc we are using IBM storage and API services. MFP adapter fetches the data from Cloudant and returns it to the mobile app. The data fetched from Cloudant will have references to the images stored in Cloud Object Storage.<br/>
+•	Backend integration APIs are developed using Citizen Integration capabilities that IBM AppConnect provides to integrate with Google Spreadsheet. <br/>
+•	MFP API adapter is used to connect to the public API exposed from IBM AppConnect to retrieve the details.<br/>
 
 <h2>IBM Services Used </h2>
 
@@ -64,18 +64,24 @@ IBM Digital App Builder (DAB)<br/>
 Mobile Foundation Server<br/> 
 IBM Watson Studio<br/> 
 
-<h2>Challenges Faced:</h2>
+<h2>SourceCode</h2>
+
+Ionic Mobile Application - Refer folders -<folder name><br/>
+
+React Native Mobile Application -Refer folders-<folder name><br/>
+
+<h2>Challenges Faced during Mobile Application Development:</h2>
 
 We have tried to use the IBM Cloud Platform and associated services in our solution to maximum.
 The documentation and the enablement sessions provided helped us to shorten the learning curve.
-The IBM Digital App Builder made the mobile app development very easy however there were lot of limitations in the tool due to which we had to restrict the scope. We created the ionic app using the IBM DAB and to cover the limitations, we built an app using react native, which incorporated web views, video embedding and so on. We faced some challenges initially on incorporating the Security, REST API & Storage adapters but we were able to overcome it.
+Though the team had very less expertise in mobile application development, we were able to manage to come up with a mobile in this short span of time as we used The IBM Digital App Builder. However there were lot of limitations in the tool due to which we had to restrict the scope. We created the ionic app using the IBM Digital App Builder(DAB) and since some features in our usecase were not achievable with DAB, we built an app using Android studio and react native, which incorporated web views, video embedding and so on. We faced some challenges initially in incorporating the Security, REST API & Storage adapters but we were able to overcome the same eventually.
 We followed the same approach in the Web Application development also & have tried to incorporate maximum IBM provided cloud services.
 
 <h2>References</h2>
 
-IBM Watson Assistant 
-How-to guides for chatbots 
-Learning path: Getting started with Watson Assistant 
-Build a Chatbot for Your Mobile App 
-Building successful mobile apps article series
+IBM Watson Assistant <br/>
+How-to guides for chatbots <br/>
+Learning path: Getting started with Watson Assistant <br/>
+Build a Chatbot for Your Mobile App <br/>
+Building successful mobile apps article series<br/>
 
