@@ -29,7 +29,8 @@ Architecture Diagram –Web and Mobile
 
 ![Web Application Architecture](/https://user-images.githubusercontent.com/18705108/83942775-50679780-a814-11ea-9d54-baf3249b26ed.JPG)
 
+Refer webarch.jpg in the repository.
+
 <h2>Mobile:</h2>
-Format: ![Alt Text](url)
 
 ![Mobile Application Architecture](/mobilearch.jpg)
