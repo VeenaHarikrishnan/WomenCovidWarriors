@@ -1,4 +1,5 @@
-# iMatterPlatform - 
+# iMatterPlatform - Connecting and Empowering Lives
+
 <h2>Team & Authors:</h2>
 
 1.Rashmi Dastidar
@@ -26,7 +27,6 @@ It is a RemoteEverything world that we are in today. The iMatter platform digita
 The Watson assistant can help the users stay informed and connected 24 X 7. Students can make use of the Watson assistant to revise the portions and for self assessment. Watson can also address queries related to health and nutrition.The video transcribe service used helps students to download lecture notes even if they have missed the classes. The multilingual feature which we have added helps students across the nation to make use of the online lectures without any language barriers.It also ensures that the differently abled children’s educational needs are addressed. The quiz app will help the teacher to assess the students regularly and parents can monitor their wards progress. A solution which will help maintain social distancing and usage of face masks is also provided which is integrated to a calling functionality so that in case of a violation, an alarm is raised and necessary actions can be taken. To ensure that the society stays healthy, physically and mentally, we have linked our application to online health services. Useful links to create AR VR virtual labs for students are provided so as to aid the teacher to deliver lectures
 
 We as citizens, have a social responsibility too and our platform ensures that education remains accessible to all, irrespective of their financial background and their location .Our platform makes use of a service which will help collect spare smart devices which can be used by the needy . There is a provision to contribute towards ensuring food for all. Inorder to ensure that women stay empowered our platform provides startup information for the women entrepreneurs in making.
-
 
 <h2>Technology</h2>
 
