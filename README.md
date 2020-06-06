@@ -105,19 +105,19 @@ IBM Language Translation<br/>
 
 <h2>SourceCode</h2>
 
-Web Application -Refer folder-<EduCarePortal><br/>
+Web Application -Refer -<EduCarePortal><br/>
 
-Mobile Application - Refer -<Mobile App.zip><br/>
+Mobile Application -Refer -<Mobile App.zip><br/>
  
-Limiting Crowd Solution- Refer-<No_Of_People_Counting.zip><br/>
+Limiting Crowd Solution -Refer -<No_Of_People_Counting.zip><br/>
 
 Face Mask Detection -Refer -<FaceMaskDetection.zip><br/>
 
 Social Distancing Solution -Refer-<SocialDistancing.zip><br/>
  
-Overall Solution Video- Refer-<><br/>
+Overall Solution Video -Refer-<><br/>
 
-Additional Videos Showcasing Application Demo  -Refer-<><br/>
+Additional Videos Showcasing Application Demo -Refer-<><br/>
 
 <h2>Challenges Faced during Mobile Application Development:</h2>
 
