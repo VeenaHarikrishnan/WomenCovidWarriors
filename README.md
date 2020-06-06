@@ -27,8 +27,8 @@ Architecture Diagram –Web and Mobile
 
 <h2>Web:</h2>
 
-![Web Application Architecture](/webArch.jpg)
+![Web Application Architecture](/webarch.jpg)
 
 <h2>Mobile:</h2>
 
-![Mobile Application Architecture(/mobileArch.jpg)
+![Mobile Application Architecture](/mobilearch.jpg)
