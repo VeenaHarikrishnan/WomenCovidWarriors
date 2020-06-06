@@ -1,3 +1,4 @@
+![Logo](https://user-images.githubusercontent.com/18705108/83945992-caefe180-a82b-11ea-9bed-0e49fa56a66f.png)
 # iMatter Platform - Connecting and Empowering Lives
 
 <h2>Team & Authors:</h2>
@@ -102,7 +103,7 @@ Mobile Foundation Server<br/>
 IBM Watson Studio<br/> 
 IBM Language Translation<br/>
 
-<h2>SourceCode</hS2>
+<h2>SourceCode</h2>
 
 Web Application -Refer folder-<EduCarePortal><br/>
 
