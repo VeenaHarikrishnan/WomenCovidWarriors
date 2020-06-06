@@ -41,36 +41,38 @@ We used mobile,web,cloud and server side technologies for the rapid development 
 <h2>Web Application Workflow</h2>
 
 1.	Our solution is accessible @ http://imatter.azurewebsites.net/.<br/>
-We have provided a role based access control for the parent, student , teacher and the admin. The below credentials can be used to try out our solution
-Password to be used across all roles-  (password - Password@123). The corresponding user ids are as below
-<t> i.	Teacher - ID-(physics.teacher1@gmail.com) </t>
-<t>ii.	Student- ID-(student.one@gmail.com)</t>
-<t> iii.	Parent-ID -(parent.one@gmail.com)</t>
-<t>iv.	Admin-ID- (admin.one@gmail.com)</t>
+   We have provided a role based access control for the parent, student,teacher and the admin.The below credentials can be used to try    out our solution<br/>
+Password to be used across all roles-  (password - Password@123). <br/>
+The corresponding user ids are as below<br/>
+  i.	 Teacher - ID-(physics.teacher1@gmail.com) <br/>
+  ii. Student- ID-(student.one@gmail.com)<br/>
+  iii.Parent-ID -(parent.one@gmail.com)<br/>
+  iv.	Admin-ID- (admin.one@gmail.com)<br/>
 
-Basic windows authentication with individual user authentication is used. 
+Basic windows authentication with individual user authentication is used. <br/>
  
-2.	We have provided the following features for the teacher role- 
-<t>a.	Create tutorial, upload video content, PDFs</t>
-<t>b.	Create quiz and upload questions. </t>
-c.	See the report of each student 
-d.	Talk to watson chatbot for quick help regarding heath and education
-e.	Access useful links, give back to society via the social responsibility links provided, Create AR/VR Content  for virtual labs etc. –
-Technolgy and Services Used are IBM Watson Assistant ,Discovery, NLU, Translation Services from IBM etc
-3.	For the Student, we have made provisions for-
-a.	Accessing tutorials and study materials uploaded by teachers.
-b.	Get the video uploaded by the faculty with multilingual transcription
-c.	Take assessment  and get the assessment reports on the spot
-d.	Quick help from Watson Chatbot which will serve as a knowledge and learning assistant
-4.	For the Parent, the features provided are 
-a.	Monitor their ward’s performance
-b.	Access useful links, and contribute towards ensuring education and meals to the needy.
-c.	Women Entrepreneurship information for empowering women by providing opportunities for enhancing skill and procuring monetary aids.
-d.	Accessing health care services from the comfort of their home.
-e.	Quick help from Chatbot regarding queries on staying fit physically and mentally, admission process etc.
-5.	For the Admin, we have provided some unique features to enable the society to come out of the lockdown while ensuring protection from infection. We have used computer vision and opensource machine learning libraries, Python libraries and opensource IDEs for coming up with the solution.
-This module enables the admin to make use of the live streaming survelliance which automatically detects if face masks and social distancing is maintained and in case of violation the admin will automatically get a call and trigger the alarm in the premises
+2.	We have provided the following features for the teacher role- <br/>
+     a.	Create tutorial, upload video content, PDFs<br/>
+     b.	Create quiz and upload questions. <br/>
+     c.	See the report of each student <br/>
+     d.	Talk to watson chatbot for quick help regarding heath and education<br/>
+     e.	Access useful links, give back to society via the social responsibility links provided, Create AR/VR Content  for virtual labs   etc. <br/>
+Technolgy and Services Used are IBM Watson Assistant ,Discovery, NLU, Translation Services from IBM etc<br/>
 
+3.	For the Student, we have made provisions for-<br/>
+     a.	Accessing tutorials and study materials uploaded by teachers.<br/>
+     b.	Get the video uploaded by the faculty with multilingual transcription<br/>
+     c.	Take assessment  and get the assessment reports on the spot<br/>
+     d.	Quick help from Watson Chatbot which will serve as a knowledge and learning assistant<br/>
+4.	For the Parent, the features provided are <br/>
+     a.	Monitor their ward’s performance<br/>
+     b.	Access useful links, and contribute towards ensuring education and meals to the needy.<br/>
+     c.	Women Entrepreneurship information for empowering women by providing opportunities for enhancing skill and procuring monetary aids.<br/>
+     d.	Accessing health care services from the comfort of their home.<br/>
+     e.	Quick help from Chatbot regarding queries on staying fit physically and mentally, admission process etc.<br/>
+5.	For the Admin, we have provided some unique features to enable the society to come out of the lockdown while ensuring protection from infection. <br/>
+     We have used computer vision and opensource machine learning libraries, Python libraries and opensource IDEs for coming up with the solution.<br/>
+This module enables the admin to make use of the live streaming survelliance which automatically detects if face masks and social distancing is maintained and in case of violation the admin will automatically get a call and trigger the alarm in the premises<br/>
 
 <h2>Mobile:</h2>
 
