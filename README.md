@@ -9,7 +9,7 @@
 
 <h1>Overview</h1>
 
-<h2>What's the problem?</h2>
+<h2>Problem Statement</h2>
 
 COVID-19, apart from being a pandemic health crisis is a socio economic crisis which has affected people from all sectors of the society.The challenges faced are multifold. iMatter Platform is a humble attempt from us the, Volvo_CO[vi]DE WARRIOR, to battle against an invisible enemy that has disrupted our lives and challenged the normal. 
 
@@ -19,7 +19,8 @@ Teachers also need socio-emotional support to face the pressure being put to del
 
 The world cannot forever, remain under lockdown and we will one day have to open up so that our economy does not collapse. While doing so, we have to ensure that we continue to maintain the social distancing and other best practices we follow today so as to ensure that the society remains unaffected.
 
-<h2>The Technology , Idea and Solution</h2>
+ 
+<h2>Idea and Solution</h2>
 
 It is a RemoteEverything world that we are in today. The iMatter platform digitalizes the health and education activities and also ensures that it remains accessible even to the differently abled and the underpriveleged . Teachers can take online classes, conduct quiz, upload notes, videos , monitor students performance and remotely connect with the parents and students there by ensuring that they stay focused.
 
@@ -27,7 +28,10 @@ The Watson assistant can help the users stay informed and connected 24 X 7. Stud
 
 We as citizens, have a social responsibility too and our platform ensures that education remains accessible to all, irrespective of their financial background and their location .Our platform makes use of a service which will help collect spare smart devices which can be used by the needy . There is a provision to contribute towards ensuring food for all. Inorder to ensure that women stay empowered our platform provides startup information for the women entrepreneurs in making.
 
-Mobile, web, and cloud services used in our platform enables rapid deployment of applications that can empower cooperation in the community.
+
+<h2>Technology</h2>
+
+We used mobile, web and cloud technologies for the rapid development and deployment of applications.To build, train, and deploy conversational interactions we used Watson Assistant , Discovery and other cognitive services offered by IBM.IBM Digital App Builder was used for Hybrid Mobile Application Development. The backend data sources were IBM Cloud Storage , CLoudant DB and we used the IPaaS platform from IBM, App Connect to frontend the data sources thereby, making the integration seamless.
 
 <h2>Architecture Diagram </h2>
 
