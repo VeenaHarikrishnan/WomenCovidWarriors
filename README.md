@@ -27,7 +27,7 @@ Architecture Diagram –Web and Mobile
 
 <h2>Web:</h2>
 
-https://user-images.githubusercontent.com/18705108/83942775-50679780-a814-11ea-9d54-baf3249b26ed.JPG
+![Web Application Architecture](/https://user-images.githubusercontent.com/18705108/83942775-50679780-a814-11ea-9d54-baf3249b26ed.JPG)
 
 <h2>Mobile:</h2>
 Format: ![Alt Text](url)
