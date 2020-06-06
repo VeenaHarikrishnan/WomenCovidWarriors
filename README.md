@@ -26,10 +26,9 @@ Mobile, web, and cloud services used in our platform enabled rapid deployment of
 Architecture Diagram –Web and Mobile
 
 <h2>Web:</h2>
-Format: ![Alt Text](https://github.com/VeenaHarikrishnan/WomenCovidWarriors/blob/master/mobilearch.jpg)
 
-![Web Application Architecture](/webarch.jpg)
-Format: ![Alt Text](https://github.com/VeenaHarikrishnan/WomenCovidWarriors/blob/master/mobilearch.jpg)
+https://user-images.githubusercontent.com/18705108/83942775-50679780-a814-11ea-9d54-baf3249b26ed.JPG
+
 <h2>Mobile:</h2>
 Format: ![Alt Text](url)
 
