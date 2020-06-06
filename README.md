@@ -31,7 +31,7 @@ We as citizens, have a social responsibility too and our platform ensures that e
 
 <h2>Technology</h2>
 
-We used mobile, web and cloud technologies for the rapid development and deployment of applications.To build, train, and deploy conversational interactions we used Watson Assistant , Discovery and other cognitive services offered by IBM.IBM Digital App Builder was used for Hybrid Mobile Application Development. The backend data sources were IBM Cloud Storage , CLoudant DB and we used the IPaaS platform from IBM, App Connect to frontend the data sources thereby, making the integration seamless.
+We used mobile,web,cloud and server side technologies for the rapid development and deployment of applications.To build, train, and deploy conversational interactions we used Watson Assistant,Discovery and other cognitive services offered by IBM.IBM Digital App Builder was used for Hybrid Mobile Application Development. The backend data sources were IBM Cloud Storage , CLoudant DB and we used the IPaaS platform from IBM, App Connect to frontend the data sources thereby, making the integration seamless.
 
 <h2>Architecture Diagram </h2>
 
@@ -55,6 +55,8 @@ We used mobile, web and cloud technologies for the rapid development and deploym
 •	Backend integration APIs are developed using Citizen Integration capabilities that IBM AppConnect provides to integrate with Google Spreadsheet. <br/>
 •	MFP API adapter is used to connect to the public API exposed from IBM AppConnect to retrieve the details.<br/>
 
+
+
 <h2>IBM Services Used </h2>
 
 IBM Cloud Foundry<br/> 
@@ -67,6 +69,7 @@ IBM Cloudant<br/>
 IBM Digital App Builder (DAB)<br/> 
 Mobile Foundation Server<br/> 
 IBM Watson Studio<br/> 
+IBM Language Translation<br/>
 
 <h2>SourceCode</h2>
 
@@ -80,6 +83,12 @@ We have tried to use the IBM Cloud Platform and associated services in our solut
 The documentation and the enablement sessions provided helped us to shorten the learning curve.
 Though the team had very less expertise in mobile application development, we were able to manage to come up with a mobile in this short span of time as we used The IBM Digital App Builder. However there were lot of limitations in the tool due to which we had to restrict the scope. We created the ionic app using the IBM Digital App Builder(DAB) and since some features in our usecase were not achievable with DAB, we built an app using Android studio and react native, which incorporated web views, video embedding and so on. We faced some challenges initially in incorporating the Security, REST API & Storage adapters but we were able to overcome the same eventually.
 We followed the same approach in the Web Application development also & have tried to incorporate maximum IBM provided cloud services.
+
+<h2>The Solution Road Map</h2>
+
+For the web application we would like to bring in additional features like live streaming with thermal camera for temperature detection.We would like to host the computer vision module and other application modules in the IBM cloud. Our objective is to build a complete platform which will fulfull our vision to ensure education,health,food and women empowerment.
+
+In the mobile application we are using a basic security adapter today, but we would like to enhance it for OAuth/LDAP based authentication.We would like to work on incorporating features which would enable collaboration. We would also like to work on improvising the screens and optimizing the code, performance and other NFRs.We would also like to enhance the application by including some of the features we have in our web application today.
 
 <h2>References</h2>
 
