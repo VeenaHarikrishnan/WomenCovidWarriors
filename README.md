@@ -25,8 +25,10 @@ Mobile, web, and cloud services used in our platform enabled rapid deployment of
 
 Architecture Diagram –Web and Mobile
 
-Web:
+<h2>Web:</h2>
 
 ![Web Application Architecture](/webArch.jpg)
-Mobile:
 
+<h2>Mobile:</h2>
+
+![Mobile Application Architecture(/mobileArch.jpg)
