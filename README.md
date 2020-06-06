@@ -18,7 +18,6 @@ The working mothers of young children, even those with flexible jobs,are straini
 Teachers also need socio-emotional support to face the pressure being put to deliver learning in a time of crisis as well as support their students’ emotional needs.Online teaching has turned up as a massive shock for both teacher’s productivity and also student’s social life and learning.For the differently abled and for the underprivileged, the impact is even more and every citizen has a moral and social responsibility to ensure that food,education and health remains accessible.Parents, teachers and students also should stay mentally and physically active and healthy.
 
 The world cannot forever, remain under lockdown and we will one day have to open up so that our economy does not collapse. While doing so, we have to ensure that we continue to maintain the social distancing and other best practices we follow today so as to ensure that the society remains unaffected.
-
  
 <h2>Idea and Solution</h2>
 
@@ -54,8 +53,6 @@ We used mobile,web,cloud and server side technologies for the rapid development 
 •	For pages like Physician Details, Social Responsibility etc we are using IBM storage and API services. MFP adapter fetches the data from Cloudant and returns it to the mobile app. The data fetched from Cloudant will have references to the images stored in Cloud Object Storage.<br/>
 •	Backend integration APIs are developed using Citizen Integration capabilities that IBM AppConnect provides to integrate with Google Spreadsheet. <br/>
 •	MFP API adapter is used to connect to the public API exposed from IBM AppConnect to retrieve the details.<br/>
-
-
 
 <h2>IBM Services Used </h2>
 
