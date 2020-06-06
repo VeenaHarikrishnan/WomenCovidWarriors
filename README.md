@@ -1,5 +1,6 @@
 # iMatterPlatform - 
-Team & Authors:
+<h2>Team & Authors:</h2>
+
 1.Rashmi Dastidar
 2.Nirmala Devidasan
 3.Tanya Maheshwari
@@ -52,16 +53,16 @@ Mobile, web, and cloud services used in our platform enables rapid deployment of
 
 <h2>IBM Services Used </h2>
 
-IBM Cloud Foundry
-IBM Watson Assistant
-IBM Watson Discovery
-IBM App Connect
-IBM NLU
-IBM Cloud Object Storage
-IBM Cloudant
-IBM Digital App Builder (DAB)
-Mobile Foundation Server
-IBM Watson Studio
+IBM Cloud Foundry<br/> 
+IBM Watson Assistant<br/> 
+IBM Watson Discovery<br/> 
+IBM App Connect<br/> 
+IBM Natural Language Understanding (NLU)<br/> 
+IBM Cloud Object Storage<br/> 
+IBM Cloudant<br/> 
+IBM Digital App Builder (DAB)<br/> 
+Mobile Foundation Server<br/> 
+IBM Watson Studio<br/> 
 
 <h2>Challenges Faced:</h2>
 
