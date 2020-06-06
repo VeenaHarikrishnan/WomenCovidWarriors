@@ -27,6 +27,6 @@ Architecture Diagram –Web and Mobile
 
 Web:
 
-
+![Web Application Architecture]
 Mobile:
 
