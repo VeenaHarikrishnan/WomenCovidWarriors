@@ -1,4 +1,4 @@
-# iMatterPlatform - Connecting and Empowering Lives
+# iMatter Platform - Connecting and Empowering Lives
 
 <h2>Team & Authors:</h2>
 
@@ -102,11 +102,21 @@ Mobile Foundation Server<br/>
 IBM Watson Studio<br/> 
 IBM Language Translation<br/>
 
-<h2>SourceCode</h2>
+<h2>SourceCode</hS2>
 
-Ionic Mobile Application - Refer folders -<folder name><br/>
+Web Application -Refer folder-<EduCarePortal><br/>
 
-React Native Mobile Application -Refer folders-<folder name><br/>
+Mobile Application - Refer -<Mobile App.zip><br/>
+ 
+Limiting Crowd Solution- Refer-<No_Of_People_Counting.zip><br/>
+
+Face Mask Detection -Refer -<FaceMaskDetection.zip><br/>
+
+Social Distancing Solution -Refer-<SocialDistancing.zip><br/>
+ 
+Overall Solution Video- Refer-<><br/>
+
+Additional Videos Showcasing Application Demo  -Refer-<><br/>
 
 <h2>Challenges Faced during Mobile Application Development:</h2>
 
