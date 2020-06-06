@@ -27,10 +27,10 @@ Architecture Diagram –Web and Mobile
 
 <h2>Web:</h2>
 
-![Web Application Architecture](/https://user-images.githubusercontent.com/18705108/83942775-50679780-a814-11ea-9d54-baf3249b26ed.JPG)
+![Web Application Architecture](https://user-images.githubusercontent.com/18705108/83942863-1b0f7980-a815-11ea-9109-544ecb143b43.JPG)
 
 Refer webarch.jpg in the repository.
 
 <h2>Mobile:</h2>
 
-![Mobile Application Architecture](/mobilearch.jpg)
+![Mobile Application Architecture](https://user-images.githubusercontent.com/18705108/83942892-5611ad00-a815-11ea-8f28-3b87ef776680.JPG )
